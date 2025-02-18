@@ -76,7 +76,4 @@ If you’d like to contribute:
 4. Push to the branch (**git push origin feature-branch**).
 5. Create a **Pull Request**.
 
----
-
-With this detailed README, recruiters and users will have a clear **step-by-step guide** with **embedded screenshots**, making it easy to understand and use your **Excel VBA automation system**! 🚀
 
